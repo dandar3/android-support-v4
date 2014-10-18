@@ -16,12 +16,10 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.support.v4"
-    android:versionCode="21001"
-    android:versionName="21.0.0-rc1">
+    android:versionCode="21000"
+    android:versionName="21.0.0">
 
-    <uses-sdk
-        android:minSdkVersion="4"
-        android:targetSdkVersion="19" />
+    <uses-sdk android:minSdkVersion="4" />
 
     <application />
 
