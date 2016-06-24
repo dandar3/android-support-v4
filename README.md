@@ -9,7 +9,7 @@ Eclipse library project based on:<br/>
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
-- https://developer.android.com/topic/libraries/support-library/features.html#4
+- https://developer.android.com/topic/libraries/support-library/features.html#v4
 
 **Subversion checkout:**
 - Eclipse ADT<br/>
