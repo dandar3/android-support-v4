@@ -12,7 +12,4 @@ Eclipse library project based on:<br/>
 - https://developer.android.com/topic/libraries/support-library/features.html#v4
 
 **SVN checkout:**
-- `Eclipse ADT`<br/>
-  https://github.com/dandar3/android-support-v4/tags/24.1.1
-- `Eclipse Andmore`<br/>
-  https://github.com/dandar3/android-support-v4/tags/24.1.1_andmore
+- https://github.com/dandar3/android-support-v4/tags/24.1.1
