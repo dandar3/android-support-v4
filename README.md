@@ -1,11 +1,15 @@
 ## android-support-v4
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/support-v4/24.1.1/support-v4-24.1.1.aar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/support-v4/24.2.0/support-v4-24.2.0.aar`
 
 **Requires:**
 - `Android 7.0 (API 24) SDK Platform`
-- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations)
+- [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat)
+- [dandar3/android-support-core-ui](https://github.com/dandar3/android-support-core-ui)
+- [dandar3/android-support-core-utils](https://github.com/dandar3/android-support-core-utils)
+- [dandar3/android-support-fragment](https://github.com/dandar3/android-support-fragment)
+- [dandar3/android-support-media-compat](https://github.com/dandar3/android-support-media-compat)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
@@ -13,6 +17,6 @@ Eclipse library project based on:<br/>
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-support-v4/24.1.1/.projectset
+  https://raw.githubusercontent.com/dandar3/android-support-v4/24.2.0/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
-  https://github.com/dandar3/android-support-v4/tags/24.1.1
+  https://github.com/dandar3/android-support-v4/tags/24.2.0
