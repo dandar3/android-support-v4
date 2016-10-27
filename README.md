@@ -5,11 +5,11 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
-- [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat)
-- [dandar3/android-support-core-ui](https://github.com/dandar3/android-support-core-ui)
-- [dandar3/android-support-core-utils](https://github.com/dandar3/android-support-core-utils)
-- [dandar3/android-support-fragment](https://github.com/dandar3/android-support-fragment)
-- [dandar3/android-support-media-compat](https://github.com/dandar3/android-support-media-compat)
+- [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat/tree/25.0.0)
+- [dandar3/android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/25.0.0)
+- [dandar3/android-support-core-utils](https://github.com/dandar3/android-support-core-utils/tree/25.0.0)
+- [dandar3/android-support-fragment](https://github.com/dandar3/android-support-fragment/tree/25.0.0)
+- [dandar3/android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/25.0.0)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#rev25-0-0
